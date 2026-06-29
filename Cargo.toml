@@ -1,0 +1,18 @@
+[package]
+name = "lzhuf"
+version = "0.1.0"
+authors = [
+    "René Coignard <contact@renecoignard.com>"
+]
+edition = "2024"
+rust-version = "1.96"
+license = "LGPL-3.0-or-later"
+description = "Encoder and decoder for the LZHUF compression used by Sydex TeleDisk disk images"
+homepage = "https://coignard.org/lzhuf"
+repository = "https://github.com/coignard/lzhuf"
+readme = "README"
+keywords = ["lzhuf", "lzss", "huffman", "teledisk", "compression"]
+categories = ["compression", "encoding"]
+exclude = [".github/*"]
+
+[dependencies]
