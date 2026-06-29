@@ -1,4 +1,5 @@
-Encoder and decoder for the LZHUF compression used by Sydex TeleDisk disk images.
+Encoder and decoder for the LZHUF compression used by Sydex TeleDisk disk
+images.
 
 This source code is licensed under the GNU LGPLv3+.  See the LICENSE file
 for more details.
